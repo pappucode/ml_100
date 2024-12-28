@@ -1,0 +1,141 @@
+name,rating,number_of_ratings,services,headquarter,highly_rated,critically_rated
+TCS,3.7,84.6k,IT Services & Consulting,Mumbai,"Job Security, Work Life Balance","Promotions Appraisal, Salary & Benefits, Work Satisfaction"
+Accenture,3.9,52.9k,IT Services & Consulting,Dublin,"Company Culture, Job Security, Skill Development Learning",Promotions Appraisal
+Wipro,3.7,50.3k,IT Services & Consulting,Bangalore/Bengaluru,Job Security,"Promotions Appraisal, Salary & Benefits"
+Cognizant,3.8,47.3k,IT Services & Consulting,Teaneck.,,"Promotions Appraisal, Salary & Benefits"
+Capgemini,3.8,39.1k,IT Services & Consulting,Paris,"Job Security, Work Life Balance","Promotions Appraisal, Salary & Benefits"
+HDFC Bank,3.9,37.6k,Banking,Mumbai,"Job Security, Skill Development Learning",Promotions Appraisal
+ICICI Bank,4.0,36.7k,Banking,Mumbai,"Job Security, Skill Development Learning, Company Culture",
+Infosys,3.7,36.6k,IT Services & Consulting,Bengaluru/Bangalore,"Job Security, Company Culture","Promotions Appraisal, Salary & Benefits, Work Satisfaction"
+HCLTech,3.5,33.8k,IT Services & Consulting,Noida,Job Security,"Promotions Appraisal, Salary & Benefits, Work Satisfaction"
+Tech Mahindra,3.6,33.2k,IT Services & Consulting,Pune,,"Promotions Appraisal, Salary & Benefits, Work Satisfaction"
+Genpact,3.9,29.9k,IT Services & Consulting,New,"Job Security, Work Life Balance, Skill Development Learning","Promotions Appraisal, Salary & Benefits"
+Teleperformance,3.9,27.4k,BPO,Paris,"Skill Development Learning, Job Security, Company Culture",
+Concentrix Corporation,3.8,25.1k,BPO,Fremont,Job Security,"Promotions Appraisal, Salary & Benefits"
+Axis Bank,3.8,24.2k,Banking,Mumbai,,Promotions Appraisal
+Amazon,4.1,24k,Internet,Seattle,"Company Culture, Salary & Benefits, Work Life Balance",
+Jio,3.9,21.7k,Navi Mumbai +1199 other locations,,"Job Security, Skill Development Learning",Promotions Appraisal
+Reliance Retail,3.9,21.3k,Retail,Ghansoli,"Skill Development Learning, Job Security",Promotions Appraisal
+IBM,4.1,21.2k,IT Services & Consulting,Armonk,"Work Life Balance, Job Security, Skill Development Learning",Promotions Appraisal
+iEnergizer,4.7,20.9k,BPO,Noida,"Company Culture, Skill Development Learning, Job Security",
+LTIMindtree,3.9,19.8k,IT Services & Consulting,Toronto,"Work Life Balance, Skill Development Learning, Job Security","Promotions Appraisal, Salary & Benefits"
+HDB Financial Services,4.0,19.5k,NBFC,Ahmedabad,"Skill Development Learning, Job Security, Company Culture",Promotions Appraisal
+Larsen & Toubro Limited,4.0,17.8k,Engineering & Construction,Mumbai,"Job Security, Skill Development Learning, Salary & Benefits",Promotions Appraisal
+Deloitte,3.8,16.8k,Management Consulting,London,"Job Security, Skill Development Learning, Salary & Benefits",Work Life Balance
+BYJU'S,3.1,15.9k,EdTech,Bangalore,,"Job Security, Work Life Balance, Company Culture"
+Kotak Mahindra Bank,3.8,15.8k,Banking,Mumbai,Job Security,Promotions Appraisal
+Reliance Industries,4.0,15.1k,Oil & Gas,Navi,"Job Security, Skill Development Learning, Work Life Balance",Promotions Appraisal
+Vodafone Idea,4.1,14.9k,Telecom,Mumbai,"Company Culture, Work Life Balance, Salary & Benefits",
+Bharti Airtel,4.0,13.1k,Telecom,Gurgaon/Gurugram,"Skill Development Learning, Salary & Benefits, Job Security",Promotions Appraisal
+Tata Motors,4.2,11.4k,Automobile,Pune,"Job Security, Skill Development Learning, Company Culture",
+AU Small Finance Bank,4.3,11.2k,Banking,Jaipur,"Skill Development Learning, Job Security, Company Culture",
+WNS,3.4,10.5k,BPO,Mumbai,,"Promotions Appraisal, Salary & Benefits, Work Satisfaction"
+Flipkart,4.0,10.3k,Internet,Bangalore,"Skill Development Learning, Company Culture, Salary & Benefits",
+IndusInd Bank,3.6,10.3k,Banking,Gurgaon/Gurugram,,"Promotions Appraisal, Company Culture, Work Satisfaction"
+Ernst & Young,3.5,10k,Management Consulting,London,,"Work Life Balance, Work Satisfaction, Promotions Appraisal"
+IDFC FIRST Bank,4.0,9.7k,Banking,Mumbai,"Salary & Benefits, Skill Development Learning, Job Security",
+DXC Technology,3.7,9.6k,IT Services & Consulting,Minato,Work Life Balance,"Promotions Appraisal, Salary & Benefits"
+Mahindra & Mahindra,4.1,9.5k,Automobile,Mumbai,"Job Security, Skill Development Learning, Company Culture",
+Infosys BPM,3.7,9.2k,BPO,Bangalore/Bengaluru,"Job Security, Skill Development Learning, Company Culture","Salary & Benefits, Promotions Appraisal"
+Bajaj Finserv,4.0,8.7k,Financial Services,Pune,"Salary & Benefits, Skill Development Learning, Job Security",
+HDFC Life,4.0,8.5k,Insurance,Mumbai,"Skill Development Learning, Job Security, Company Culture",
+PwC,3.4,8.5k,Management Consulting,London,,"Work Life Balance, Promotions Appraisal, Work Satisfaction"
+Conneqt Business Solutions,3.7,8.4k,BPO,Mumbai,,"Promotions Appraisal, Salary & Benefits, Work Satisfaction"
+Mphasis,3.4,7.8k,IT Services & Consulting,Bangalore/Bengaluru,,"Promotions Appraisal, Salary & Benefits, Work Satisfaction"
+Yes Bank,3.8,7.2k,Banking,Mumbai,,
+Maruti Suzuki,4.2,7.2k,Automobile,New,"Job Security, Salary & Benefits, Skill Development Learning",
+Startek,3.2,7.1k,Mumbai +73 other locations,,,"Promotions Appraisal, Salary & Benefits, Work Satisfaction"
+Paytm,3.3,7.1k,FinTech,Noida,,"Job Security, Promotions Appraisal, Company Culture"
+Bandhan Bank,3.7,7.1k,Banking,Kolkata,Job Security,"Promotions Appraisal, Work Satisfaction"
+Asian Paints,4.0,7.1k,Chemicals,Mumbai,"Salary & Benefits, Skill Development Learning, Job Security",
+Samsung,4.0,6.9k,Consumer Electronics & Appliances,Seoul,"Salary & Benefits, Work Life Balance, Skill Development Learning",Promotions Appraisal
+Ericsson,4.2,6.9k,Telecom,Stockholm,"Company Culture, Work Life Balance, Job Security",Promotions Appraisal
+Quess,3.9,6.8k,BPO,Bangalore,,Promotions Appraisal
+Shriram Finance,4.1,6.8k,NBFC,Mumbai,"Job Security, Work Life Balance, Skill Development Learning",
+Tata Steel,4.1,6.8k,Iron & Steel,Mumbai,"Job Security, Skill Development Learning, Work Life Balance",Promotions Appraisal
+HGS,3.9,6.8k,BPO,Bangalore/Bengaluru,"Job Security, Company Culture, Work Life Balance","Promotions Appraisal, Salary & Benefits"
+EXL Service,3.7,6.7k,Analytics & KPO,New,Job Security,"Promotions Appraisal, Salary & Benefits"
+Muthoot Fincorp,4.5,6.6k,NBFC,Trivandrum/Thiruvananthapuram,"Skill Development Learning, Company Culture, Job Security",
+UltraTech Cement,4.2,6.6k,Building Material,Mumbai,"Job Security, Skill Development Learning, Company Culture",
+Cipla,4.1,6.6k,Pharma,Mumbai,"Skill Development Learning, Salary & Benefits, Work Life Balance",
+NTT Data Information Processing Services,4.0,6.5k,IT Services & Consulting,Chiyoda,"Job Security, Work Life Balance, Company Culture",Promotions Appraisal
+Dr. Reddy's,4.1,6.5k,Pharma,Hyderabad,"Skill Development Learning, Company Culture, Work Life Balance",Promotions Appraisal
+Sutherland Global Services,3.7,6.5k,IT Services & Consulting,Dubai,,"Promotions Appraisal, Salary & Benefits"
+Bajaj Finance,4.0,6.3k,NBFC,Pune,"Salary & Benefits, Skill Development Learning, Job Security",
+Wells Fargo,3.9,6k,Financial Services,San,"Work Life Balance, Job Security, Company Culture",Promotions Appraisal
+ICICI Prudential Life Insurance,4.1,6k,Insurance,Mumbai,"Job Security, Skill Development Learning, Salary & Benefits",
+Amazon Development Centre India,4.1,5.9k,Internet,Balanagar,"Company Culture, Work Life Balance, Salary & Benefits",Promotions Appraisal
+Jana Small Finance Bank,3.8,5.9k,Banking,Bangalore/Bengaluru,,
+Equitas Small Finance Bank,4.5,5.9k,Banking,Chennai,"Job Security, Company Culture, Work Life Balance",
+Lupin,4.2,5.8k,Pharma,Mumbai,"Skill Development Learning, Company Culture, Work Life Balance",
+Delhivery,3.9,5.8k,Logistics,Delhi,Skill Development Learning,Promotions Appraisal
+Zydus Lifesciences,4.1,5.8k,Pharma,Ahmedabad,"Salary & Benefits, Skill Development Learning, Job Security",
+JPMorgan Chase & Co.,4.1,5.7k,Financial Services,New,"Job Security, Company Culture, Skill Development Learning",
+L&T Construction,4.0,5.7k,Engineering & Construction,Chennai,"Job Security, Skill Development Learning, Salary & Benefits",Work Life Balance
+Sun Pharmaceutical Industries,4.1,5.5k,Pharma,Mumbai,"Salary & Benefits, Job Security, Skill Development Learning",
+Hexaware Technologies,3.6,5.5k,IT Services & Consulting,Navi,,"Promotions Appraisal, Salary & Benefits, Work Satisfaction"
+JSW Steel,3.9,5.4k,Iron & Steel,Mumbai,"Job Security, Skill Development Learning",Promotions Appraisal
+ITC,4.0,5.4k,FMCG,Kolkata,"Job Security, Skill Development Learning",Promotions Appraisal
+HCL Group,3.7,5.3k,IT Services & Consulting,Rajkot,Job Security,"Promotions Appraisal, Salary & Benefits"
+FIS,3.9,5.3k,FinTech,Jacksonville,"Work Life Balance, Company Culture, Job Security",Promotions Appraisal
+Indian Army,4.7,5.3k,Defence & Aerospace,New,"Job Security, Company Culture, Skill Development Learning",
+Hindustan Unilever,4.2,5.3k,FMCG,London,"Skill Development Learning, Job Security, Company Culture",Promotions Appraisal
+KPMG India,3.5,5.1k,Management Consulting,Ghaziabad,,"Promotions Appraisal, Work Life Balance, Work Satisfaction"
+Max Life Insurance,4.1,5.1k,Insurance,Gurgaon/Gurugram,"Skill Development Learning, Company Culture, Job Security",
+Ujjivan Small Finance Bank,4.1,5.1k,Banking,Bangalore/Bengaluru,"Company Culture, Job Security, Skill Development Learning",
+IIFL Finance,4.0,5k,NBFC,Mumbai,"Work Life Balance, Skill Development Learning, Salary & Benefits",
+Oracle,3.7,5k,Emerging Technologies,Austin,"Work Life Balance, Job Security","Promotions Appraisal, Salary & Benefits"
+Udaan,4.0,5k,Internet,Bangalore,"Salary & Benefits, Skill Development Learning, Work Life Balance",Job Security
+Tata Projects,4.3,4.9k,Engineering & Construction,Mumbai,"Job Security, Company Culture, Salary & Benefits",
+Ekart Logistics,4.0,4.8k,San Francisco +648 other locations,,"Skill Development Learning, Salary & Benefits",Promotions Appraisal
+Muthoot Finance,3.6,4.8k,NBFC,Kochi/Cochin,,"Promotions Appraisal, Work Satisfaction, Salary & Benefits"
+Megha Engineering & Infrastructures,3.9,4.8k,Engineering & Construction,Hyderabad/Secunderabad,Job Security,Promotions Appraisal
+eClerx,3.4,4.7k,IT Services & Consulting,Mumbai,,"Promotions Appraisal, Salary & Benefits, Work Satisfaction"
+Omega Healthcare,3.8,4.6k,BPO,Boca,,"Promotions Appraisal, Salary & Benefits"
+Aurobindo Pharma,4.0,4.6k,Pharma,Hyderabad/Secunderabad,"Job Security, Salary & Benefits, Work Life Balance",
+JLL,4.1,4.6k,Real Estate,Mumbai,"Job Security, Skill Development Learning, Company Culture",
+Bajaj Allianz Life Insurance,4.0,4.6k,Insurance,Pune,"Salary & Benefits, Work Life Balance, Job Security",
+Siemens,4.1,4.5k,Industrial Automation,Munich,"Job Security, Work Life Balance, Company Culture",Promotions Appraisal
+Shapoorji Pallonji Group,4.2,4.5k,Engineering & Construction,Mumbai,"Job Security, Work Life Balance, Skill Development Learning",
+HSBC Group,4.0,4.5k,Financial Services,Pune,"Job Security, Work Life Balance, Company Culture",Promotions Appraisal
+Coforge,3.4,4.5k,IT Services & Consulting,Noida,,"Promotions Appraisal, Salary & Benefits, Work Satisfaction"
+Virtusa Consulting Services,3.8,4.5k,IT Services & Consulting,Southborough,,Promotions Appraisal
+Indiamart Intermesh,3.5,4.4k,Internet,Noida,,"Promotions Appraisal, Work Satisfaction, Company Culture"
+L&T Technology Services,3.4,4.4k,IT Services & Consulting,Vadodara/Baroda,,"Promotions Appraisal, Salary & Benefits, Work Satisfaction"
+Ashok Leyland,4.1,4.4k,Automobile,Chennai,"Skill Development Learning, Work Satisfaction, Work Life Balance",
+Apollo Hospitals,4.1,4.4k,Healthcare,Chennai,"Job Security, Skill Development Learning, Company Culture",
+Firstsource Solutions,3.7,4.3k,BPO,Mumbai,,"Promotions Appraisal, Salary & Benefits"
+Standard Chartered,3.8,4.3k,Banking,London,Job Security,Promotions Appraisal
+DMart,4.0,4.3k,Retail,Mumbai,"Job Security, Company Culture",Promotions Appraisal
+BigBasket,3.9,4.3k,Internet,Bangalore,Job Security,Promotions Appraisal
+JustDial,3.5,4.3k,Internet,Mumbai,,"Promotions Appraisal, Work Satisfaction, Job Security"
+ICICI Lombard General Insurance Company,3.7,4.3k,Insurance,Mumbai,,"Promotions Appraisal, Work Satisfaction"
+CGI Group,4.0,4.3k,IT Services & Consulting,Montreal,"Job Security, Work Life Balance, Company Culture",Promotions Appraisal
+Cyient,3.7,4.3k,IT Services & Consulting,Hyderabad/Secunderabad,,"Promotions Appraisal, Salary & Benefits, Work Satisfaction"
+GlobalLogic,3.7,4.2k,IT Services & Consulting,San,Work Life Balance,"Promotions Appraisal, Salary & Benefits, Skill Development Learning"
+Hero MotoCorp,4.2,4.2k,Automobile,Gurgaon/Gurugram,"Work Life Balance, Company Culture, Job Security",
+Vivo,4.1,4.2k,Consumer Electronics & Appliances,Gurgaon/Gurugram,"Skill Development Learning, Company Culture, Work Life Balance",Promotions Appraisal
+Home Credit Finance,4.1,4.2k,NBFC,Gurugram,"Company Culture, Work Life Balance, Skill Development Learning",
+Mahindra Finance,4.1,4.2k,NBFC,Mumbai,"Company Culture, Job Security, Work Life Balance",
+Cholamandalam Investment & Finance,4.0,4.1k,Financial Services,Chennai,"Salary & Benefits, Job Security, Skill Development Learning",
+Eviden,3.6,4.1k,IT Services & Consulting,Kolkata,,"Promotions Appraisal, Salary & Benefits"
+Bosch Global Software Technologies,4.0,4.1k,Software Product,Gerlingen,"Job Security, Work Life Balance, Company Culture","Promotions Appraisal, Salary & Benefits"
+UST,3.8,4.1k,IT Services & Consulting,Aliso,"Work Life Balance, Company Culture",Promotions Appraisal
+Manappuram Finance,3.9,4k,NBFC,Thrissur/Trichur,"Skill Development Learning, Promotions Appraisal",
+OPPO,4.0,4k,Consumer Electronics & Appliances,Dongguan,Skill Development Learning,Promotions Appraisal
+Nagarro,4.0,4k,IT Services & Consulting,Munich,"Work Life Balance, Company Culture, Skill Development Learning",
+SMFG India Credit,4.0,4k,NBFC,Mumbai,"Salary & Benefits, Job Security, Company Culture",
+TVS Motor,4.0,3.9k,Automobile,Chennai,"Skill Development Learning, Salary & Benefits, Job Security",
+SBI Cards & Payment Services,3.7,3.9k,Financial Services,Gurgaon/Gurugram,,"Promotions Appraisal, Work Satisfaction, Company Culture"
+IQVIA,3.9,3.9k,Clinical Research,Durham,"Job Security, Company Culture, Work Life Balance",Promotions Appraisal
+Optum,4.0,3.9k,Prairie +37 other locations,,"Job Security, Work Life Balance, Company Culture",Promotions Appraisal
+Kalpataru Projects International,4.2,3.9k,Engineering & Construction,Mumbai,"Job Security, Skill Development Learning, Salary & Benefits",
+Swiggy,3.8,3.9k,Internet,Bangalore,Salary & Benefits,"Job Security, Promotions Appraisal"
+BNY,4.0,3.8k,Financial Services,New,"Company Culture, Work Life Balance, Salary & Benefits",Promotions Appraisal
+Atos Syntel,3.6,,IT Services & Consulting,Troy,,"Promotions Appraisal, Salary & Benefits, Work Satisfaction"
+Amdocs,3.8,3.8k,Software Product,Chesterfield,Company Culture,"Promotions Appraisal, Work Satisfaction"
+Hewlett Packard Enterprise,4.2,3.7k,IT Services & Consulting,Houston,"Company Culture, Work Life Balance, Job Security",Promotions Appraisal
+State Bank of India,3.8,3.7k,Banking,Mumbai,"Job Security, Salary & Benefits",Work Life Balance
+CBRE,4.2,3.7k,Real Estate,Los,"Skill Development Learning, Job Security, Company Culture",
+Bosch,4.2,3.7k,Auto Components,Gerlingen,"Company Culture, Work Life Balance, Job Security",
+Hyundai Motor India Limited,4.4,3.7k,Automobile,Seoul,"Job Security, Salary & Benefits, Skill Development Learning",
